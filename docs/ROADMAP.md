@@ -4,7 +4,8 @@
 - [x] FastAPI backend
 - [ ] Supabase connection
 - [ ] Create Project endpoint
-- [ ] Create Project database table
+- [x] Create event/game/segment database tables
+- [x] Rename projects to highlight_projects
 - [ ] Upload video endpoint
 - [ ] Store video in cloud
 
